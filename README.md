@@ -1,2 +1,2 @@
 # prac-git
-Practice git-hub commands
+Practice git-hub commands to get familiarize.
